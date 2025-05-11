@@ -17,7 +17,7 @@ serwisu FitnessTracker:
 - móc usuwać użytkowników z systemu
 - móc aktualizować użytkowników
 
-### Wymagania funkcjonalne
+### Wymagania funkcjonalne.
 
 Stworzone API powinno pozwalać na:
 
